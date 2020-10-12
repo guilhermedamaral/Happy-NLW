@@ -1,3 +1,4 @@
+
 ![logo](https://user-images.githubusercontent.com/64797539/95773970-e1a0bc00-0c95-11eb-9d95-010e9bc0968f.png)
 
 
@@ -11,9 +12,7 @@
 </p>
 
 <p align="center">
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=121214" alt="License">
-
-  <img src="https://img.shields.io/github/stars/guilhermecapitao/nlw3-discovery-happy?label=stars&message=MIT&color=8257E6&labelColor=121214" alt="License">  
+  <img  src="![Capturar](https://user-images.githubusercontent.com/64797539/95774159-43612600-0c96-11eb-95d4-dc7bfea528a1.PNG)" alt="License">
 </p>
 
 <br>
