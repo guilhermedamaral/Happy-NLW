@@ -12,6 +12,15 @@
   <img alt="Proffy" src="https://user-images.githubusercontent.com/64797539/95774159-43612600-0c96-11eb-95d4-dc7bfea528a1.PNG" width="60%">
 </p>
 
+
+## 💻 Projeto
+
+Ligar orfanatos próximos a você é o foco do projeto Happy 💜
+
+Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020.
+
+Projeto da [Next Level Week 3.0](https://nextlevelweek.com/).
+
 ## 🚀 Tecnologias
 
 Tecnologias usadas:
@@ -21,13 +30,6 @@ Tecnologias usadas:
 - [SQLite](https://www.sqlite.org/index.html)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
-## 💻 Projeto
-
-Ligar orfanatos próximos a você é o foco do projeto Happy 💜
-
-Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020.
-
-Projeto da [Next Level Week 3.0](https://nextlevelweek.com/).
 
 ## 🔖 Layout
 
