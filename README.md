@@ -1,8 +1,6 @@
-
-![logo](https://user-images.githubusercontent.com/64797539/95773970-e1a0bc00-0c95-11eb-9d95-010e9bc0968f.png)
-
-
-
+<h1 align="center">
+    <img alt="Proffy" title="Proffy" src="https://user-images.githubusercontent.com/64797539/95773970-e1a0bc00-0c95-11eb-9d95-010e9bc0968f.png" />
+</h1>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,7 +10,9 @@
 </p>
 
 <p align="center">
-  <img  src="![Capturar](https://user-images.githubusercontent.com/64797539/95774159-43612600-0c96-11eb-95d4-dc7bfea528a1.PNG)" alt="License">
+  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=121214" alt="License">
+
+  <img src="https://img.shields.io/github/stars/guilhermecapitao/nlw3-discovery-happy?label=stars&message=MIT&color=8257E6&labelColor=121214" alt="License">  
 </p>
 
 <br>
@@ -40,11 +40,12 @@ Projeto da [Next Level Week 3.0](https://nextlevelweek.com/).
 
 ## 🔖 Layout
 
-Web
+Você pode visualizar o layout do projeto através dos links abaixo:
+
 - [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1) 
-Mobile
 - [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1) 
 
+Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
 ## 📝 Licença
 
