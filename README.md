@@ -2,7 +2,9 @@
     <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
 </h1>
 
-https://user-images.githubusercontent.com/64797539/95773636-3bed4d00-0c95-11eb-86cd-8849483887ab.png
+
+![logo](https://user-images.githubusercontent.com/64797539/95773636-3bed4d00-0c95-11eb-86cd-8849483887ab.png)
+
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
