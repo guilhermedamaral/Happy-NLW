@@ -1,6 +1,4 @@
-<h1 align="center">
-    ![logo](https://user-images.githubusercontent.com/64797539/95773970-e1a0bc00-0c95-11eb-9d95-010e9bc0968f.png)
-</h1>
+![logo](https://user-images.githubusercontent.com/64797539/95773970-e1a0bc00-0c95-11eb-9d95-010e9bc0968f.png)
 
 
 
