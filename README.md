@@ -2,6 +2,8 @@
     <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
 </h1>
 
+https://user-images.githubusercontent.com/64797539/95773636-3bed4d00-0c95-11eb-86cd-8849483887ab.png
+
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -40,12 +42,11 @@ Projeto da [Next Level Week 3.0](https://nextlevelweek.com/).
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através dos links abaixo:
-
+Web
 - [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1) 
+Mobile
 - [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1) 
 
-Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
 ## 📝 Licença
 
@@ -53,4 +54,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-<p align="center">Desenvolvido com 💜 por Guilherme Capitão</p>
+<p align="center">Desenvolvido com 💜 por Guilherme D Amaral</p>
