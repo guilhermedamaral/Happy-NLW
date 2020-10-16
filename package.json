@@ -1,5 +1,5 @@
 {
-  "name": "nlw3-discovery-happy",
+  "name": "Happy-Nlw",
   "version": "1.0.0",
   "description": "<h1 align=\"center\">\r     <img alt=\"Happy\" title=\"Happy\" src=\".github/logo.svg\" />\r </h1>",
   "main": "index.js",
@@ -8,18 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guilhermedamaral/Happy-Nlw.git"
+    "url": "git+/guilhermedamaral/Happy-Nlw.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/guilhermedamaral/Happy-Nlw/issues"
+    "url": "/guilhermedamaral/Happy-Nlw/issues"
+    
   },
-  "homepage": "https://github.com/guilhermedamaral/Happy-Nlw#readme",
+  "homepage": "https://github.com//guilhermedamaral/Happy-Nlw#readme",
   "dependencies": {
     "express": "^4.17.1",
     "hbs": "^4.1.1",
-    "nodemon": "^2.0.5"
+    "nodemon": "^2.0.5",
+    "sqlite-async": "^1.1.0"
   }
 }
