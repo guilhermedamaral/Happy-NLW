@@ -17,10 +17,6 @@
 
 Ligar orfanatos próximos a você é o foco do projeto Happy 💜
 
-Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020.
-
-Projeto da [Next Level Week 3.0](https://nextlevelweek.com/).
-
 ## 🚀 Tecnologias
 
 Tecnologias usadas:
